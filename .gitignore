@@ -2,9 +2,6 @@
 .vscode
 .idea
 
-#env file
-.env
-.env.*
 
 node_modules/
 
