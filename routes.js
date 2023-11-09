@@ -8,6 +8,7 @@ const routes = [
   { path: '/reset-password' },
   { path: '/my-account' },
   { path: '/ordersandreplenishment' },
+  { path: '/check-your-order' },
   { path: '/account/orders/:orderNo' },
   { path: '/wishlist' },
   { path: '/search' },
